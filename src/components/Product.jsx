@@ -40,7 +40,6 @@ const Product = () => {
   return (
     <div className="px-6 pb-6">
       <div>
-        {/* <p className="py-2 text-4xl font-semibold">Infinix INBOOK</p> */}
         <Typography className="py-2 text-4xl font-semibold" style="h1">
           {name}
         </Typography>
